@@ -19,14 +19,9 @@
       "FanDisplayName": "1.st fan",
       "TemperatureThresholds": [
         {
-          "UpThreshold": 40,
-          "DownThreshold": 0,
-          "FanSpeed": 0.0
-        },
-        {
           "UpThreshold": 45,
           "DownThreshold": 40,
-          "FanSpeed": 30.0
+          "FanSpeed": 0.0
         },
         {
           "UpThreshold": 50,
@@ -78,14 +73,9 @@
       "FanDisplayName": "2.nd fan",
       "TemperatureThresholds": [
         {
-          "UpThreshold": 40,
-          "DownThreshold": 0,
-          "FanSpeed": 0.0
-        },
-        {
           "UpThreshold": 45,
           "DownThreshold": 40,
-          "FanSpeed": 30.0
+          "FanSpeed": 0.0
         },
         {
           "UpThreshold": 50,
